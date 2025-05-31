@@ -54,21 +54,13 @@ joblib
 
 Install all with:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
-📸 Screenshots
-(Add screenshots here if you'd like)
+
 
 📄 License
 MIT License
 
-✨ Author
+Author
 Naeem Akhtar
 
-css
-Copy
-Edit
 
-Let me know if you want me to generate a `requirements.txt` or a sample input Excel template!
